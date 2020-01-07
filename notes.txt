@@ -1,0 +1,10 @@
+email validation function:
+
+function validateEmail(email) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+}
+
+
+
+
+geeksforgeeks.org/form-validation-using-html-javascript/
