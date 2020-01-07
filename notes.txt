@@ -8,3 +8,6 @@ function validateEmail(email) {
 
 
 geeksforgeeks.org/form-validation-using-html-javascript/
+
+
+use function name validateForm()

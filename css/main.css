@@ -42,7 +42,7 @@ textarea:hover, textarea:focus, textarea:active {
 }
 
 textarea {
-  margin: 5px 0 15px 0;
+  margin: 5px 0 20px 0;
   padding: 8px 10px;
   font-family: Montserrat, sans-serif;
   font-size: 0.8rem;
@@ -52,6 +52,6 @@ textarea {
 
 .button {
   width: 150px;
-  margin: 0 10px;
+  margin: 0 10px 30px 10px;
   font-size: 0.9rem;
 }
