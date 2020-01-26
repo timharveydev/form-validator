@@ -55,3 +55,14 @@ textarea {
   margin: 0 10px 30px 10px;
   font-size: 0.9rem;
 }
+
+/* Green and red colours for submit and reset buttons */
+#submit:hover, #submit:focus, #submit:active {
+  border: 1px solid #086D00;
+  color: #086D00;
+}
+
+#reset:hover, #reset:focus, #reset:active {
+  border: 1px solid #B00000;
+  color: #B00000;
+}
